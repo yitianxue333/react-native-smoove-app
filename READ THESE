@@ -1,0 +1,7 @@
+- The reason the react native calendar picker was taken from node modules and put into the src folder is because I basically had to modify it to the point of not even being the same package
+- After release most of the way that data was being displayed for the app changed, hence why you see if - else version checks in multiple places. The old ones should be safe to remove at this point
+- Custom transitions were implemented in the react-native-router-flux package
+- Color and font changes had to be made directly to the <hr> package
+- There is a fair amount of unused code left over from version 1 in some of the components, should also be safe to remove at this point
+- I apologize for the length of some of the components, due to feature changes and time contraints, but it should all be readable and pretty straightforward
+- Installing FCM with cocopods was immensely difficult to do without the project blowing up and may be the source of a lot of your frustration

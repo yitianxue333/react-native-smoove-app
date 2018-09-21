@@ -1,0 +1,29 @@
+dependencies: \
+  /Volumes/WORK/Workspace/ReactNative/Smoove/ios/Pods/Stripe/Stripe/STPSMSCodeViewController.m \
+  /Volumes/WORK/Workspace/ReactNative/Smoove/ios/Pods/Target\ Support\ Files/Stripe/Stripe-prefix.pch \
+  /Volumes/WORK/Workspace/ReactNative/Smoove/ios/Pods/Stripe/Stripe/STPSMSCodeViewController.h \
+  /Volumes/WORK/Workspace/ReactNative/Smoove/ios/Pods/Stripe/Stripe/STPSMSCodeTextField.h \
+  /Volumes/WORK/Workspace/ReactNative/Smoove/ios/Pods/Stripe/Stripe/STPCheckoutAPIClient.h \
+  /Volumes/WORK/Workspace/ReactNative/Smoove/ios/Pods/Stripe/Stripe/STPCheckoutAPIVerification.h \
+  /Volumes/WORK/Workspace/ReactNative/Smoove/ios/Pods/Stripe/Stripe/STPCheckoutAccount.h \
+  /Volumes/WORK/Workspace/ReactNative/Smoove/ios/Pods/Stripe/Stripe/PublicHeaders/STPCard.h \
+  /Volumes/WORK/Workspace/ReactNative/Smoove/ios/Pods/Stripe/Stripe/PublicHeaders/STPCardBrand.h \
+  /Volumes/WORK/Workspace/ReactNative/Smoove/ios/Pods/Stripe/Stripe/PublicHeaders/STPCardParams.h \
+  /Volumes/WORK/Workspace/ReactNative/Smoove/ios/Pods/Stripe/Stripe/PublicHeaders/STPFormEncodable.h \
+  /Volumes/WORK/Workspace/ReactNative/Smoove/ios/Pods/Stripe/Stripe/PublicHeaders/STPAddress.h \
+  /Volumes/WORK/Workspace/ReactNative/Smoove/ios/Pods/Stripe/Stripe/PublicHeaders/STPAPIResponseDecodable.h \
+  /Volumes/WORK/Workspace/ReactNative/Smoove/ios/Pods/Stripe/Stripe/PublicHeaders/STPPaymentMethod.h \
+  /Volumes/WORK/Workspace/ReactNative/Smoove/ios/Pods/Stripe/Stripe/PublicHeaders/STPSource.h \
+  /Volumes/WORK/Workspace/ReactNative/Smoove/ios/Pods/Stripe/Stripe/STPCheckoutAccountLookup.h \
+  /Volumes/WORK/Workspace/ReactNative/Smoove/ios/Pods/Stripe/Stripe/PublicHeaders/STPBlocks.h \
+  /Volumes/WORK/Workspace/ReactNative/Smoove/ios/Pods/Stripe/Stripe/STPPromise.h \
+  /Volumes/WORK/Workspace/ReactNative/Smoove/ios/Pods/Stripe/Stripe/PublicHeaders/STPToken.h \
+  /Volumes/WORK/Workspace/ReactNative/Smoove/ios/Pods/Stripe/Stripe/PublicHeaders/STPTheme.h \
+  /Volumes/WORK/Workspace/ReactNative/Smoove/ios/Pods/Stripe/Stripe/PublicHeaders/STPPaymentActivityIndicatorView.h \
+  /Volumes/WORK/Workspace/ReactNative/Smoove/ios/Pods/Stripe/Stripe/PublicHeaders/StripeError.h \
+  /Volumes/WORK/Workspace/ReactNative/Smoove/ios/Pods/Stripe/Stripe/UIBarButtonItem+Stripe.h \
+  /Volumes/WORK/Workspace/ReactNative/Smoove/ios/Pods/Stripe/Stripe/UIViewController+Stripe_KeyboardAvoiding.h \
+  /Volumes/WORK/Workspace/ReactNative/Smoove/ios/Pods/Stripe/Stripe/STPPhoneNumberValidator.h \
+  /Volumes/WORK/Workspace/ReactNative/Smoove/ios/Pods/Stripe/Stripe/STPColorUtils.h \
+  /Volumes/WORK/Workspace/ReactNative/Smoove/ios/Pods/Stripe/Stripe/STPWeakStrongMacros.h \
+  /Volumes/WORK/Workspace/ReactNative/Smoove/ios/Pods/Stripe/Stripe/STPLocalizationUtils.h

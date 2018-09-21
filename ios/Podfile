@@ -1,0 +1,8 @@
+# Uncomment the next line to define a global platform for your project
+platform :ios, '9.0'
+
+target 'SmooveKey' do
+  pod 'Stripe', '~> 9.2.0'
+  pod 'FirebaseMessaging'
+  inherit! :search_paths
+end
